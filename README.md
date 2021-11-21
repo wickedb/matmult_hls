@@ -1,4 +1,4 @@
-# Matrix mutliplication using HLS on Xilinx Vitis 
+# Matrix multiplication using HLS on Xilinx Vitis 
 
 ## HLS
 
