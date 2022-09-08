@@ -11,7 +11,7 @@ Optimization done using [HLS pragmas](https://www.xilinx.com/html_docs/xilinx202
 
 * Matrix size: 100x100
 * Inputs: Generated and filled with random numbers in the testbench. 
-* Target device: Artix7 35t (xa7a100t-csg324-1I)
+* Target device: Artix7 100t (xa7a100t-csg324-1I)
 
 ## Usage
 
